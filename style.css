@@ -59,3 +59,8 @@ h2{
     transform: scale(1.05);
     box-shadow: 0 0 30px #38bdf8;
 }
+
+h2 i{
+    color:#38bdf8;
+    margin-right:10px;
+}
