@@ -6,8 +6,8 @@ body{
 }
 
 header{
-    background:#1e293b;
-    padding:60px;
+background: linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
+    padding:70px;
     text-align:center;
 }
 
@@ -31,6 +31,12 @@ section{
     padding:20px;
     margin:20px 0;
     border-radius:15px;
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 10px 25px rgba(0,0,0,.4);
 }
 
 h2{
@@ -46,4 +52,10 @@ h2{
     margin: 0 auto 20px auto;
     border: 5px solid white;
     box-shadow: 0 8px 20px rgba(0,0,0,.3);
+    transition: 0.3s;
+}
+
+.profile:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 30px #38bdf8;
 }
