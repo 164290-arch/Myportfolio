@@ -149,3 +149,23 @@ h2 i:hover{
 .card{
     animation:fadeUp .8s ease;
 }
+
+#typing{
+    color:#94a3b8;
+    font-size:18px;
+    white-space:nowrap;
+    overflow:hidden;
+}
+
+#typing::after{
+    content:"|";
+    animation:blink .8s infinite;
+}
+
+@keyframes blink{
+
+    50%{
+        opacity:0;
+    }
+
+}
