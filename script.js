@@ -1,5 +1,5 @@
 const text =
-"Grade 12 Student | Python Developer | Web Developer";
+"Grade 12 Student | Python Developer | Study At Krathum Baen WisetSaMuThaKhun School";
 
 let index = 0;
 
