@@ -12,6 +12,5 @@
   <img src="portfolio/8.png" height="700" alt="Page 8"><br><br>
   <img src="portfolio/9.png" height="700" alt="Page 9"><br><br>
   <img src="portfolio/10.png" height="700" alt="Page 10"><br><br>
-  <img src="portfolio/11.png" height="700" alt="Page 11">
 
 </div>
